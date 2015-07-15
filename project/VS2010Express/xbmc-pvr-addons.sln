@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pvr.mythtv", "..\..\addons\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcppmyth", "..\..\lib\cppmyth\project\VS2010Express\cppmyth\libcppmyth.vcxproj", "{086B2F32-C84B-481C-BB7E-ACCB4B2A0671}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pvr.kartinatv", "..\..\addons\pvr.kartinatv\project\VS2010Express\pvrclient_kartinatv.vcxproj", "{8E74A0E7-0224-41D4-BAA7-80BD25E45391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -305,6 +307,20 @@ Global
 		{086B2F32-C84B-481C-BB7E-ACCB4B2A0671}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
 		{086B2F32-C84B-481C-BB7E-ACCB4B2A0671}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
 		{086B2F32-C84B-481C-BB7E-ACCB4B2A0671}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Debug|Win32.Build.0 = Debug|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Debug|x64.ActiveCfg = Debug|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.MinSizeRel|Win32.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.MinSizeRel|Win32.Build.0 = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.MinSizeRel|x64.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.MinSizeRel|x64.Build.0 = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Release|Win32.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Release|Win32.Build.0 = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.Release|x64.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.RelWithDebInfo|Win32.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.RelWithDebInfo|Win32.Build.0 = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.RelWithDebInfo|x64.ActiveCfg = Release|Win32
+		{8E74A0E7-0224-41D4-BAA7-80BD25E45391}.RelWithDebInfo|x64.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

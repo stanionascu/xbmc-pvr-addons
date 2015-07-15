@@ -18,6 +18,7 @@ SUBDIRS = pvr.argustv \
           pvr.vdr.vnsi \
           pvr.vuplus \
           pvr.wmc \
+          pvr.kartinatv \
           $(ADDON_FILMON_SUBDIRS) \
           $(ADDON_IPTVSIMPLE_SUBDIRS) \
           $(ADDON_MYTHTV_SUBDIRS)
